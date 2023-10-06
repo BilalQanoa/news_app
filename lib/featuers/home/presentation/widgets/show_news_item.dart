@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:news_app/core/widgets/news_item_image.dart';
-import 'package:news_app/featuers/home/presentation/category_news_view.dart';
 
 class ShowNewsItem extends StatelessWidget {
   const ShowNewsItem({
